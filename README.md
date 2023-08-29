@@ -1,4 +1,4 @@
-# Machine-Learning-Process
+# Data-Science-Process
 This repository is the process of all the tools and technologies I've covered in my Machine Learning journey.
 
 1. Starting right from the programming fundamentals like data types in Python and OOPs concepts which covers :-
