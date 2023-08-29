@@ -28,5 +28,4 @@ This repository is the process of all the tools and technologies I've covered in
    4. Drawing conclusions.
    5. Commiting Results.
 
-## Machine Learning Algorithms :
-### 1. Linear Regression
+
